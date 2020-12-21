@@ -1,0 +1,27 @@
+.song {
+   padding-top: 20px;
+   min-height: 70vh;
+   // background: yellowgreen;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   img {
+      width: 20%;
+      border-radius: 50%;
+   }
+   h2 {
+      padding: 3rem 1rem 1rem 1rem;
+   }
+   h3 {
+      font-size: 1.2rem;
+   }
+}
+
+@media screen and (max-width: 768px) {
+   .song {
+      img {
+         width: 60%;
+      }
+   }
+}
