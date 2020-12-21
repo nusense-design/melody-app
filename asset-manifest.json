@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/melody-app/static/css/main.c29ad40c.chunk.css",
+    "main.css": "/melody-app/static/css/main.c48e7976.chunk.css",
     "main.js": "/melody-app/static/js/main.69d79028.chunk.js",
     "main.js.map": "/melody-app/static/js/main.69d79028.chunk.js.map",
     "runtime-main.js": "/melody-app/static/js/runtime-main.a14f10a8.js",
@@ -8,13 +8,13 @@
     "static/js/2.198bd494.chunk.js": "/melody-app/static/js/2.198bd494.chunk.js",
     "static/js/2.198bd494.chunk.js.map": "/melody-app/static/js/2.198bd494.chunk.js.map",
     "index.html": "/melody-app/index.html",
-    "static/css/main.c29ad40c.chunk.css.map": "/melody-app/static/css/main.c29ad40c.chunk.css.map",
+    "static/css/main.c48e7976.chunk.css.map": "/melody-app/static/css/main.c48e7976.chunk.css.map",
     "static/js/2.198bd494.chunk.js.LICENSE.txt": "/melody-app/static/js/2.198bd494.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a14f10a8.js",
     "static/js/2.198bd494.chunk.js",
-    "static/css/main.c29ad40c.chunk.css",
+    "static/css/main.c48e7976.chunk.css",
     "static/js/main.69d79028.chunk.js"
   ]
 }
