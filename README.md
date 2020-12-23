@@ -1,4 +1,4 @@
-# Click to see live project [melody-app](https://nusense-design.github.io/melody-app/)
+## Click to see live project [melody-app](https://nusense-design.github.io/melody-app/)
 
 ## Getting Started with Create React App
 
